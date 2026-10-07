@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+Testleaf_FDE_Week1_Setup_Playbook_Windows_Mac.pdf
+WhatsApp Image 2026-10-01 at 9.38.09 PM.jpeg
+Snipaste_2026-10-03_13-46-09.png
+fde-week1
+day1assigment
