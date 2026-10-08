@@ -1,0 +1,20 @@
+[
+    {
+        "invoice_id": 100,
+        "amount": 1000,
+        "status": "Pending",
+        "company": "ABC PVT LMT"
+    },
+    {
+        "invoice_id": 101,
+        "amount": 10000,
+        "status": "Paid",
+        "company": "Ind PVT LMT"
+    },
+    {
+        "invoice_id": 102,
+        "amount": 5000,
+        "status": "Authorized",
+        "company": "Sg PVT LMT"
+    }
+]
